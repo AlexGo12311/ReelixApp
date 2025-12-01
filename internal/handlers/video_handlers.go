@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
-	"reelix-app/internal/models"
-	"reelix-app/internal/storage"
+	"reelixapp/internal/models"
+	"reelixapp/internal/storage"
 
 	"github.com/google/uuid"
 	"github.com/gorilla/mux"

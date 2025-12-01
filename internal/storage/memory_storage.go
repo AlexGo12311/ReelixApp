@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"reelix-app/internal/models"
+	"reelixapp/internal/models"
 	"sync"
 	"time"
 

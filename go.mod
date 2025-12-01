@@ -1,4 +1,4 @@
-module youtube-app
+module reelixapp
 
 go 1.25.2
 
